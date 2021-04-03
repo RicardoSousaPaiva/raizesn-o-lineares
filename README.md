@@ -1,7 +1,6 @@
 # Raizes não-lineares
 
-<p align="justify"> Equações precisam ser resolvidas em todas as áreas da ciência e da engenha-
-ria.
+<p align="justify"> Equações precisam ser resolvidas em todas as áreas da ciência e da engenharia.
 O processo de solução numérica de uma equação é diferente do procedimento
 usado na obtenção de uma solução analítica. 
 Uma solução analítica é obtidacom a dedução de uma expressão que leva a um valor numérico exato. 
